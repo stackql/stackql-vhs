@@ -2,7 +2,7 @@
 
 Generates a GIF file from a sequence of `stackql` shell commands using [charmbracelet/vhs](https://github.com/charmbracelet/vhs).  
 
-![stackql-vhs](images/stackql.gif)
+![stackql-vhs](/images/stackql.gif)
 
 ## Usage
 
