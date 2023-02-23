@@ -9,8 +9,6 @@ Set Width 1200
 
 # set up auth
 Hide
-Type "export OKTA_SECRET_KEY=<KEY> && clear"
-Enter
 Type "AUTH=$(python3 /stackql/.auth/setauth.py) && clear"
 Enter
 Show
