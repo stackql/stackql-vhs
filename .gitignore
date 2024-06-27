@@ -5,3 +5,6 @@ vhsThemes.txt
 api.keys
 node_modules/
 *.gif
+stackql*.sh
+/ttyd
+/stackql-deploy

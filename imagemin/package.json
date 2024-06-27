@@ -1,16 +1,7 @@
 {
-  "name": "imagemin",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
   "type": "module",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC",
   "dependencies": {
-    "imagemin": "^8.0.1",
+    "imagemin": "^9.0.0",
     "imagemin-gifsicle": "^7.0.0"
   }
 }
